@@ -1,1 +1,0 @@
-/data/data/com.termux/files/usr/bin/cc  -Wall   CMakeFiles/plogin.dir/plogin.c.o  -o plogin -ltermux-auth 
