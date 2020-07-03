@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /data/data/com.termux/files/usr/bin
+rm login
+mv login.old login

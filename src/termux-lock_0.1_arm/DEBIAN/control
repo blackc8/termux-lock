@@ -1,0 +1,7 @@
+Package: termux-lock
+Version: 0.1
+Architecture: arm
+Maintainer: @blackc8
+Description: Lock your termux in a linux way
+Homepage: https://github.com/blackc8/termux-lock
+Depends: termux-auth

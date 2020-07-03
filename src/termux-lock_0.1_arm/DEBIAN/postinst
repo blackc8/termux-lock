@@ -1,0 +1,11 @@
+#!/bin/sh
+cd /data/data/com.termux/files/usr/bin
+if [ ! -f "login.old" ]
+then
+  mv login login.old
+fi
+mv plogin login
+
+printf "INFO:  login with password is disabled by default\n"
+printf "       to enable login with password use:\n"
+printf "         login -e\n"
