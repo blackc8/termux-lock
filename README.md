@@ -1,7 +1,7 @@
 # termux-lock
 Lock your termux in a linux way
 
-*WARNING:* Lineage OS has library linking problem please not the install the default .deb, build it and then install it.
+**WARNING:** Lineage OS has library linking problem please not the install the default .deb, build it and then install it.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
